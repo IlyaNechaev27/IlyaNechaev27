@@ -3,7 +3,7 @@
 
 👋 Hi, I’m @IlyaNechaev27
 
-👀 I’m interested in IOS development
+👀 iOS junior
 
 📫 How to reach me: dolphins.mind777@gmail.com
 
