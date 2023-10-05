@@ -1,11 +1,4 @@
 
- 
-
-👋 Hi, I’m @IlyaNechaev27
-
-👀 iOS junior
-
-📫 How to reach me: dolphins.mind777@gmail.com
 
 
 ![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
